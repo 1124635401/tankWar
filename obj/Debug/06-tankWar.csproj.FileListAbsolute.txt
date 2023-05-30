@@ -1,0 +1,11 @@
+F:\repos\Csharp_tank\06-tankWar\obj\Debug\06-tankWar.csproj.AssemblyReference.cache
+F:\repos\Csharp_tank\06-tankWar\obj\Debug\06-tankWar.csproj.SuggestedBindingRedirects.cache
+F:\repos\Csharp_tank\06-tankWar\obj\Debug\_06_tankWar.Properties.Resources.resources
+F:\repos\Csharp_tank\06-tankWar\obj\Debug\06-tankWar.csproj.GenerateResource.cache
+F:\repos\Csharp_tank\06-tankWar\obj\Debug\06-tankWar.csproj.CoreCompileInputs.cache
+F:\repos\Csharp_tank\06-tankWar\bin\Debug\06-tankWar.exe.config
+F:\repos\Csharp_tank\06-tankWar\bin\Debug\06-tankWar.exe
+F:\repos\Csharp_tank\06-tankWar\bin\Debug\06-tankWar.pdb
+F:\repos\Csharp_tank\06-tankWar\obj\Debug\06-tankWar.exe
+F:\repos\Csharp_tank\06-tankWar\obj\Debug\06-tankWar.pdb
+F:\repos\Csharp_tank\06-tankWar\obj\Debug\_06_tankWar.Form1.resources
